@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>This is sunder Placeholder</p>'; ?> 
+ <?php echo '<p>This bada Placeholder</p>'; ?> 
  </body>
 </html>
