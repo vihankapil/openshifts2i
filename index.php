@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>This naya Placeholder</p>'; ?> 
+ <?php echo '<p>This sunder Placeholder</p>'; ?> 
  </body>
 </html>
